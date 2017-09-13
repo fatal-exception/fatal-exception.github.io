@@ -1,3 +1,3 @@
 ## Tech Blog
 
-See [latest blog here](latest.md)
+See [latest post here](latest.md)
