@@ -1,3 +1,5 @@
-## Tech Blog
+## Sermon
 
-See [latest post here](latest.md)
+See [latest sermon here](latest.md)
+
+[What does the Holy Spirit do?](1.md)
